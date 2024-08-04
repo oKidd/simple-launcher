@@ -1,5 +1,5 @@
 <?php
-    $logFile = './logs/latest.log'; // Cambia esta ruta a la ubicación correcta
+    $logFile = '../logs/latest.log'; // Cambia esta ruta a la ubicación correcta
 
     // Verificar si el archivo de registro existe
     if (!file_exists($logFile)) {
