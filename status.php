@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL & ~E_WARNING);
 include('config.php');
 $url = 'https://api.mcsrvstat.us/3/'.$ip; // Reemplaza con la URL real de la API
 
