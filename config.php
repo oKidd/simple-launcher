@@ -7,9 +7,8 @@ $ip = 'IP:PORT';
 $serverJar = 'server.jar';
 
 #Quieres ver la consola?
-$console = false;
+$console = true;
 
 #Memoria Ram asignada al servidor
-$ram = "1G"
-
+$ram = "1G";
 ?>
